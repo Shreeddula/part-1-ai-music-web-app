@@ -1,0 +1,22 @@
+body{
+    background-size: cover;
+    font-family: "Shantell Sans", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.heading{
+    font-size: 27px;
+    width: 100%;
+    margin:0px;
+}
+
+.note{
+    color: black;
+    font-size: 18px;
+}
+
+canvas{
+    border: 5px white solid;
+    box-shadow: 5px 5px 40px grey;
+}
